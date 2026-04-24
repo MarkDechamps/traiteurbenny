@@ -59,9 +59,11 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
+          PAGES_URL="${{ steps.pages.outputs.base_url }}"
+          HTTPS_URL="${PAGES_URL/http:\/\//https://}"
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "$HTTPS_URL/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
