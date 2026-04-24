@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
+  title : "Traiteur Benny — Uw BBQ Specialist"
+  content : "Wij brengen de authentieke Low & Slow BBQ-beleving rechtstreeks naar uw evenement. Met onze smoker trailer verzorgen wij onvergetelijke cateringmomenten voor kleine en grote groepen."
+  feature_item :
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : "Low & Slow Gerookt"
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content : "Ons vlees wordt urenlang gerookt op lage temperatuur voor een perfecte, sappige smaak."
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
+    - title : "Smoker Trailer op Locatie"
+      icon : ti-car # themify icon pack : https://themify.me/themify-icons
+      content : "Wij komen met onze professionele smoker trailer naar uw locatie, waar dan ook in België."
+
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : "Ambachtelijke Kwaliteit"
+      icon : ti-crown # themify icon pack : https://themify.me/themify-icons
+      content : "Enkel de beste ingrediënten, zorgvuldig bereid met passie voor echte BBQ-traditie."
+
+      # feature item loop
+    - title : "Catering op Maat"
+      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      content : "Van intieme feestjes tot grote bedrijfsevenementen — wij stellen het menu af op uw wensen."

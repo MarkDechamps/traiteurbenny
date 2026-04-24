@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
+  title : "Traiteur Benny — Votre Spécialiste BBQ"
+  content : "Nous apportons l''expérience authentique du Low & Slow BBQ directement à votre événement. Avec notre remorque fumoir, nous assurons des moments de catering inoubliables pour tous les groupes."
+  feature_item :
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : "Fumé Low & Slow"
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content : "Notre viande est fumée pendant des heures à basse température pour une saveur parfaite et juteuse."
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
+    - title : "Remorque Fumoir sur Place"
+      icon : ti-car # themify icon pack : https://themify.me/themify-icons
+      content : "Nous amenons notre remorque fumoir professionnelle à votre lieu, partout en Belgique."
+
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : "Qualité Artisanale"
+      icon : ti-crown # themify icon pack : https://themify.me/themify-icons
+      content : "Uniquement les meilleurs ingrédients, soigneusement préparés avec passion pour la vraie tradition BBQ."
+
+      # feature item loop
+    - title : "Catering Sur Mesure"
+      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      content : "Des rassemblements intimes aux grands événements d''entreprise — nous adaptons le menu à vos souhaits."

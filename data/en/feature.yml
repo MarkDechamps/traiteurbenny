@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
+  title : "Catering Benny — Your BBQ Specialist"
+  content : "We bring the authentic Low & Slow BBQ experience straight to your event. With our smoker trailer we deliver unforgettable catering moments for groups of all sizes."
+  feature_item :
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : "Low & Slow Smoked"
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content : "Our meat is smoked for hours at low temperature for a perfect, juicy flavour."
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
+    - title : "Smoker Trailer On-Site"
+      icon : ti-car # themify icon pack : https://themify.me/themify-icons
+      content : "We bring our professional smoker trailer to your location, anywhere in Belgium."
+
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : "Artisan Quality"
+      icon : ti-crown # themify icon pack : https://themify.me/themify-icons
+      content : "Only the finest ingredients, carefully prepared with a passion for real BBQ tradition."
+
+      # feature item loop
+    - title : "Bespoke Catering"
+      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      content : "From intimate gatherings to large corporate events — we tailor the menu to your wishes."

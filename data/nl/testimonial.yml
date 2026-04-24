@@ -5,22 +5,22 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
+    - name : "Dirk Vandenberghe"
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+      date : "14 juni 2024"
+      content : "Traiteur Benny heeft ons bedrijfsfeest compleet gemaakt. De pulled pork en brisket waren van een ongelooflijke kwaliteit. Iedereen was onder de indruk van de smoker trailer. Zeker een aanrader!"
+
     # testimonial item loop
-    - name : Mark Dinn
+    - name : "Els Maes"
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+      date : "22 september 2023"
+      content : "Voor ons huwelijk kozen we voor Traiteur Benny en het was de beste beslissing. De gasten konden hun ogen niet afhouden van de smoker en de BBQ was fenomenaal lekker."
+
     # testimonial item loop
-    - name : Lemos Kail
+    - name : "Johan Claes"
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : "3 augustus 2024"
+      content : "Al voor het tweede jaar op rij boeken wij Benny voor ons zomerfestival. Professioneel, punctueel en het vlees is elke keer perfect. Low & Slow BBQ op zijn best!"

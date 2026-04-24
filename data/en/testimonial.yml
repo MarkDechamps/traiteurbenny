@@ -5,22 +5,22 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
+    - name : "Dirk Vandenberghe"
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+      date : "14 June 2024"
+      content : "Catering Benny made our company party unforgettable. The pulled pork and brisket were of incredible quality. Everyone was amazed by the smoker trailer. Highly recommended!"
+
     # testimonial item loop
-    - name : Mark Dinn
+    - name : "Els Maes"
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+      date : "22 September 2023"
+      content : "For our wedding we chose Catering Benny and it was the best decision. The guests could not take their eyes off the smoker and the BBQ was phenomenally delicious."
+
     # testimonial item loop
-    - name : Lemos Kail
+    - name : "Johan Claes"
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : "3 August 2024"
+      content : "For the second year in a row we book Benny for our summer festival. Professional, punctual and the meat is perfect every time. Low & Slow BBQ at its finest!"

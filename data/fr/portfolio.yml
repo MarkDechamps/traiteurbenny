@@ -1,76 +1,76 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : "Nos Réalisations"
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : "Festival Pulled Pork"
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
+      categories : ["bbq", "events"]
+      content : "Une journée de fumée lente et de pulled pork parfait pour des centaines de festivaliers."
+      link : ""
+
     # portfolio item loop
-    - name : Sound system
+    - name : "Événement d''Entreprise"
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["catering", "events"]
+      content : "Catering BBQ professionnel pour un grand événement d''entreprise avec 300 invités."
       link : ""
-      
+
     # portfolio item loop
-    - name : Clock Product
+    - name : "Catering Mariage"
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      categories : ["catering"]
+      content : "BBQ inoubliable lors de la réception de mariage — remorque fumoir comme pièce maîtresse."
+      link : ""
+
     # portfolio item loop
-    - name : Bottol Label
+    - name : "Journée Brisket"
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      categories : ["bbq", "smoker"]
+      content : "Brisket traditionnel style Texas, fumé 14 heures jusqu''à une tendreté parfaite."
+      link : ""
+
     # portfolio item loop
-    - name : Shopping Bag
+    - name : "Ribs & Beer Event"
       image : images/portfolio/portfolio-5.jpg
       image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      categories : ["bbq", "events"]
+      content : "Spare ribs associées à des bières artisanales locales — une soirée inoubliable."
+      link : ""
+
     # portfolio item loop
-    - name : Tag Design
+    - name : "BBQ sur Site"
       image : images/portfolio/portfolio-6.jpg
       image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      categories : ["catering", "smoker"]
+      content : "Nous amenons la remorque fumoir à votre lieu pour une expérience BBQ unique."
+      link : ""
+
     # portfolio item loop
-    - name : Business Card
+    - name : "Remorque Fumoir"
       image : images/portfolio/portfolio-7.jpg
       image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      categories : ["smoker"]
+      content : "Notre remorque fumoir professionnelle — le coeur de chaque catering BBQ."
+      link : ""
+
     # portfolio item loop
-    - name : Stationary Design
+    - name : "Street Food Market"
       image : images/portfolio/portfolio-8.jpg
       image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      categories : ["bbq", "events"]
+      content : "Traiteur Benny au marché street food avec une large offre BBQ."
+      link : ""
+
     # portfolio item loop
-    - name : Tag Design
+    - name : "Fête Privée"
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      categories : ["catering", "events"]
+      content : "Fête privée avec un menu BBQ exclusif élaboré sur mesure pour les invités."
+      link : ""

@@ -5,22 +5,22 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
+    - name : "Dirk Vandenberghe"
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+      date : "14 juin 2024"
+      content : "Traiteur Benny a rendu notre fête d''entreprise inoubliable. Le pulled pork et le brisket étaient d''une qualité incroyable. Tout le monde était impressionné par la remorque fumoir. Vraiment recommandé !"
+
     # testimonial item loop
-    - name : Mark Dinn
+    - name : "Els Maes"
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+      date : "22 septembre 2023"
+      content : "Pour notre mariage, nous avons choisi Traiteur Benny et c''était la meilleure décision. Les invités ne pouvaient pas quitter des yeux la remorque fumoir et le BBQ était phénoménalement délicieux."
+
     # testimonial item loop
-    - name : Lemos Kail
+    - name : "Johan Claes"
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : "3 août 2024"
+      content : "Pour la deuxième année consécutive, nous réservons Benny pour notre festival d''été. Professionnel, ponctuel et la viande est parfaite à chaque fois. Le BBQ Low & Slow dans toute sa splendeur !"
