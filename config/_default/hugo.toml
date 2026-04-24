@@ -1,0 +1,117 @@
+################################# Default configuration ###################
+baseURL = "https://traiteurbenny.be/"
+title = "Traiteur Benny | Low & Slow BBQ"
+theme = "meghna-hugo"
+defaultContentLanguage = "nl"
+defaultContentLanguageInSubdir = false
+timeZone = "Europe/Brussels"
+
+# post pagination
+pagination.pagerSize = 6
+# post excerpt
+summaryLength = 15
+
+disableLanguages = []
+hasCJKLanguage = false
+
+############################# Build ##############################
+[build]
+noJSConfigInAssets = false
+useResourceCacheWhen = 'fallback'
+[build.buildStats]
+enable = true
+[[build.cachebusters]]
+source = 'assets/.*\.(js|ts|jsx|tsx)'
+target = '(js|scripts|javascript)'
+[[build.cachebusters]]
+source = 'assets/.*\.(css|sass|scss)$'
+target = '(css|styles|scss|sass)'
+[[build.cachebusters]]
+source = 'assets/.*\.(.*)$'
+target = '$1'
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS"]
+
+############################# Imaging ##############################
+[imaging]
+quality = 90
+resampleFilter = "lanczos"
+
+############################# Caches ###############################
+[caches]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+############################# Markup ###############################
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+############################# Default Parameters ##########################
+[params]
+logo = "images/logo.png"
+description = "Authentieke Low & Slow BBQ catering op locatie in België"
+author = "Traiteur Benny"
+post_share = true
+
+# preloader
+[params.preloader]
+enable = false
+preloader = "images/logo.png"
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+# google map
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"
+map_latitude = "51.0500"
+map_longitude = "4.0000"
+map_marker = "images/marker.png"
+
+############################# Social icons ##########################
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+
+[[params.social]]
+icon = "ti-instagram"
+link = "#"

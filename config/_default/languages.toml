@@ -1,0 +1,31 @@
+################################### Dutch language (default) #####################################
+[nl]
+languageName = "NL"
+languageCode = "nl-be"
+contentDir = "content/nl"
+weight = 1
+[nl.params]
+home = "Home"
+copyright = "Copyright &copy; 2024 Traiteur Benny"
+
+
+################################### English language #####################################
+[en]
+languageName = "EN"
+languageCode = "en-gb"
+contentDir = "content/en"
+weight = 2
+[en.params]
+home = "Home"
+copyright = "Copyright &copy; 2024 Traiteur Benny"
+
+
+################################### French language #####################################
+[fr]
+languageName = "FR"
+languageCode = "fr-be"
+contentDir = "content/fr"
+weight = 3
+[fr.params]
+home = "Accueil"
+copyright = "Copyright &copy; 2024 Traiteur Benny"

@@ -1,0 +1,20 @@
+################### French Navigation ########################
+[[main]]
+name = "À propos"
+url = "#about"
+weight = 1
+
+[[main]]
+name = "Formules"
+url = "#services"
+weight = 2
+
+[[main]]
+name = "Galerie"
+url = "#portfolio"
+weight = 3
+
+[[main]]
+name = "Contact"
+url = "#contact"
+weight = 4
