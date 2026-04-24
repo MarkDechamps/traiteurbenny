@@ -1,0 +1,55 @@
+/* ============================================================
+   Traiteur Benny — Brand Override
+   Primary accent: BBQ Orange #e64a19 (replaces theme #57cbcc)
+   ============================================================ */
+
+/* Buttons */
+.btn-main, .btn-main-sm {
+  background: #e64a19;
+  border-color: #e64a19;
+  color: #fff;
+}
+.btn-main:hover, .btn-main-sm:hover {
+  background: #bf3d14;
+  border-color: #bf3d14;
+  color: #fff;
+}
+
+/* Section headings underline / border accents */
+.section-title h2::after,
+.title-border::after {
+  background: #e64a19;
+}
+
+/* Links and icon accents */
+a:hover,
+.nav-link:hover,
+.service-icon,
+.ti,
+.color {
+  color: #e64a19;
+}
+
+/* Navigation active state */
+.navbar-nav .active > .nav-link,
+.navbar-nav .nav-link.active {
+  color: #e64a19;
+}
+
+/* Background color blocks */
+.bg-primary,
+.cta-area,
+.counter-stat {
+  background: #e64a19 !important;
+}
+
+/* Border highlights */
+.portfolio-item:hover,
+.service-item:hover {
+  border-color: #e64a19;
+}
+
+/* Preloader / spinner */
+.preloader .spinner {
+  border-top-color: #e64a19;
+}
