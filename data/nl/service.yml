@@ -1,34 +1,20 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Onze Formules
   service_item :
-    # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Het Broodje Pulled Pork
+      icon : ti-cup
+      content : "Sappige Pulled Pork op een zacht broodje met huisgemaakte coleslaw. Ideaal voor festivals, markten en bedrijfslunches."
+
+    - name : Catering op Maat
+      icon : ti-truck
+      content : "Wij berekenen een persoonlijk aanbod op basis van jouw aantal gasten, locatie en gewenste menu. Vraag een offerte aan."
+
+    - name : De Totaalervaring
+      icon : ti-star
+      content : "Volledig ontzorgd: smoker-trailer, bemanning, borden en bestek. Jij geniet, wij zorgen voor de rest."
+
+    - name : Brisket & Ribs
+      icon : ti-fire
+      content : "Onze signature Beef Brisket en St. Louis Ribs — urenlang gerookt op eiken en kersen-hout tot perfectie."

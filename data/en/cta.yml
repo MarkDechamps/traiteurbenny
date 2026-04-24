@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Ready to feast?"
+  content : "Contact us for a no-obligation quote. We guarantee an unforgettable BBQ experience at your event."
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Request a quote"
     link : "#contact"
