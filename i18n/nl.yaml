@@ -1,30 +1,28 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Laatste Bericht
 - id: readMore
-  translation: Read more
+  translation: Meer lezen
 - id: viewAllPost
-  translation: View All Post
+  translation: Alle berichten bekijken
 - id: share
-  translation: Share
+  translation: Delen
 - id: aboutAuthor
-  translation: About author
+  translation: Over de auteur
 - id: authorsPosts
-  translation: Author's posts
+  translation: Berichten van de auteur
 - id: all
-  translation: All
+  translation: Alle
 - id: about
-  translation: About Us
+  translation: Over Ons
 - id: services
-  translation: Service
+  translation: Formules
 - id: portfolio
-  translation: Portfolio
+  translation: Galerij
 - id: team
   translation: Team
 - id: pricing
-  translation: Pricing
+  translation: Prijzen
 - id: blog
   translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher

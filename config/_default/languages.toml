@@ -3,6 +3,7 @@
 languageName = "NL"
 languageCode = "nl-be"
 contentDir = "content/nl"
+title = "Traiteur Benny | Low & Slow BBQ"
 weight = 1
 [nl.params]
 home = "Home"
@@ -14,6 +15,7 @@ copyright = "Copyright &copy; 2024 Traiteur Benny"
 languageName = "EN"
 languageCode = "en-gb"
 contentDir = "content/en"
+title = "Catering Benny | Authentic BBQ & Smoker"
 weight = 2
 [en.params]
 home = "Home"
@@ -25,6 +27,7 @@ copyright = "Copyright &copy; 2024 Traiteur Benny"
 languageName = "FR"
 languageCode = "fr-be"
 contentDir = "content/fr"
+title = "Traiteur Benny | BBQ Authentique & Fumoir"
 weight = 3
 [fr.params]
 home = "Accueil"
