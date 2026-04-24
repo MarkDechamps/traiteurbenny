@@ -1,31 +1,25 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : Contact
+  subtitle : Get In Touch
+  content : "Interested in a quote or have a question? Fill in the form or contact us directly."
 
-  # Contact details
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+    - icon : ti-location-pin
+      info : "Belgium"
 
+    - icon : ti-mobile
+      info : "Phone: +32 XXX XX XX XX"
 
-  # Contact form
+    - icon : ti-email
+      info : "info@traiteurbenny.be"
+
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
+    form_action : "https://formspree.io/f/YOUR_FORM_ID"
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"
     message : "Message"
-    submit : "Submit"
+    submit : "Send"
