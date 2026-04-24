@@ -47,10 +47,14 @@ The Meghna Hugo theme is a Git submodule. The project's `content/`, `data/`, `as
 
 - **Strict i18n:** Any content, menu item, or UI string added in `nl/` must have equivalents in `en/` and `fr/`.
 - **Commit discipline:** Follow the phased commit messages from `requirements/technical-checklist.md` (e.g., `"T1: ..."`, `"T2: ..."`) and wait for confirmation between phases.
-- **Accent color:** BBQ Orange `#e64a19` — used for buttons and primary accents, set via custom CSS or SCSS variable override.
-- **Hero image:** `static/images/hero-smoker.jpg` — referenced as `/images/hero-smoker.jpg` in front matter.
-- **Contact form:** Handled via Formspree (no server-side code).
+- **Accent color:** BBQ Orange `#e64a19` — used for buttons and primary accents, set via `assets/css/custom.css`.
+- **Hero image:** `assets/images/backgrounds/hero-smoker.jpg` — referenced in `data/*/banner.yml`.
+- **Contact form:** Handled via Formspree — set the form ID in `data/*/contact.yml`.
 - **Deployment:** Automated via `.github/workflows/hugo.yml` targeting GitHub Pages.
+
+## Checklist Tracking
+
+After completing any task listed in `requirements/checklist.md` or `requirements/technical-checklist.md`, **always update the file immediately** by changing `[ ]` to `[x]` for every completed item. Commit the checklist update together with (or directly after) the work commit.
 
 ## Implementation Phases
 
